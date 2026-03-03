@@ -1,2 +1,2 @@
 # GEODOS
-A DOS Geometry Dash port written in C.
+A DOS Geometry Dash port with editor written in C.
