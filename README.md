@@ -2,6 +2,7 @@
 A DOS GEOMETRY DASH PORT WITH EDITOR WRITTEN IN C.
 
 COMPILE:
+
 STAGE 1 - GRAB THE COMPILER
 https://github.com/andrewwutw/build-djgpp/releases
 
