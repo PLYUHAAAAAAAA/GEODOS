@@ -1,7 +1,7 @@
 # GEODOS
 A DOS GEOMETRY DASH PORT WITH EDITOR WRITTEN IN C.
 
-https://github.com/PLYUHAAAAAAAA/GEODOS/blob/main/GEODOS_SCREENSHOT.png?raw=true
+![image alt](https://github.com/PLYUHAAAAAAAA/GEODOS/blob/main/GEODOS_SCREENSHOT.png?raw=true)
 
 COMPILE:
 
