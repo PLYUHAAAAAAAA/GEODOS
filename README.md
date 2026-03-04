@@ -3,6 +3,8 @@ A DOS GEOMETRY DASH PORT WITH EDITOR WRITTEN IN C.
 
 ![image alt](https://github.com/PLYUHAAAAAAAA/GEODOS/blob/main/GEODOS_SCREENSHOT.png?raw=true)
 
+![image alt](https://github.com/PLYUHAAAAAAAA/GEODOS/blob/main/EDITOR_SCREENSHOT.png?raw=true)
+
 COMPILE:
 
 STAGE 1 - GRAB THE COMPILER
